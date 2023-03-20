@@ -1,6 +1,8 @@
-//Horizon Grammar file. Shayan Technologies Corporation
-//Modified from the toml.g4 Grammar available at
-//https://github.com/antlr/grammars-v4/blob/master/toml/toml.g4
+/*
+Copyright Shayan Technologies Corporation. Horizon Grammar file for NextSketch 2.
+Modified from the toml.g4 Grammar previously available at
+https://github.com/antlr/grammars-v4/blob/master/toml/toml.g4
+*/
 
 
 /*
